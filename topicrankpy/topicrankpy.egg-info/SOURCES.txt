@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+topicrankpy/__init__.py
+topicrankpy/base.py
+topicrankpy/data_structures.py
+topicrankpy/extractinformation.py
+topicrankpy/readers.py
+topicrankpy/topicrank.py
+topicrankpy/utils.py
+topicrankpy.egg-info/PKG-INFO
+topicrankpy.egg-info/SOURCES.txt
+topicrankpy.egg-info/dependency_links.txt
+topicrankpy.egg-info/requires.txt
+topicrankpy.egg-info/top_level.txt
