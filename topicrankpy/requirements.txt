@@ -1,4 +1,4 @@
-numpy==1.17.2
+numpy==1.22.0
 networkx==2.4
 nltk==3.4.5
 textract==1.6.3
